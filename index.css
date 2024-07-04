@@ -1,0 +1,1414 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background:-webkit-linear-gradient(top right,rgba(38, 54, 90, 0.555),rgb(37, 24, 24));
+    background-size: cover;
+
+}
+
+h1 {
+
+    font-size: 65px;
+    color: rgb(160, 211, 21);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+font-weight: bolder;
+transition:1.5s;
+}
+h1:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif   ;
+    font-size: 75px;
+}
+
+h3{
+text-align: center;
+font-size: 50px;
+color: rgb(53, 87, 8);
+font-family:'Times New Roman', Times, serif ;
+font-weight: bolder;
+transition: 1.5s;
+}
+
+h3:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif   ;
+    font-size: 60px;
+}
+
+.photo{
+    height: 150px;
+    width: 200px;
+    background-color: black;
+border:2px;
+border-color: black;
+border-style: solid;
+margin-right: 228px;
+margin-left: 317px;
+background-image: url(real.jpg);
+background-size: 200px 150px;
+background-repeat: no-repeat;
+box-shadow: 7px 10px 20px  black;
+transform: translate(200px);
+transition: 1.2s;
+}
+.photo:hover{
+    border-radius: 70px;
+}
+
+
+.phototwo{
+    
+    height: 150px;
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+border:2px;
+border-color: black;
+border-style: solid;
+margin-right: 298px;
+margin-left: 367px;
+background-image: url(real2.jpg);
+background-size: 200px 150px;
+background-repeat: no-repeat;
+box-shadow: 7px 10px 20px  black;
+transform: translate(-500x);
+transition: 1.2s;
+
+}
+
+.phototwo:hover{
+    border-radius: 70px;
+}
+
+.photoall{
+    display: inline-flex;
+    margin:100px -250px;
+    padding: 0px -100px;
+}
+
+
+
+
+
+
+
+.PART2{
+    display: inline-flex;
+}
+
+
+
+.real66{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  0px  100px;
+background-image: url(REAL66.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+@keyframes animate{
+   0%
+   {
+       transform: skewY(5deg);
+   }
+   50% 
+   
+   {
+    transform: skewY(15deg);
+}
+   100%
+{
+    transform: skewY(5deg);
+}
+}
+
+
+.real55{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  0px  100px;
+background-image: url(REAL55.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.real44{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  0px  100px;
+background-image: url(REAL44.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+
+.part3{
+    display: inline-flex;
+}
+
+
+
+
+
+.cr11{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(CR11.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(150deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+.cr15{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(CR15.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+.cr76{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(CR76.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.part4{
+    display: inline-flex;
+}
+
+
+.ram1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(ram1.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+.ram2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(ram2.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.ram3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(ram3.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+.part5{
+    display: inline-flex;
+}
+
+
+.ben1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(bale1.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.ben2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(bale2.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.ben3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(bale3.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+
+.part6{
+    display: inline-flex;
+}
+
+
+
+.kro1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(kro1.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+
+ }
+
+
+
+
+.kro2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(kro2.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.kro3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(kro3.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+
+
+
+.part7{
+    display: inline-flex;
+}
+
+
+
+.mod1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(mod1.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.mod2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(mod2.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+.mod3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 330px;
+    width: 250px;
+margin:  30px  100px;
+background-image: url(mod3.jpg);
+background-size: 260px 350px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: a linear 5s infinite;
+}
+@keyframes a{
+    0%
+    {
+        transform: skewy(5deg);
+       
+    }
+
+    50% 
+    
+    {
+     transform: skewY(15deg);
+     
+    }
+
+    100%
+ {
+     transform: skewY(5deg);
+     
+ }
+ 
+ 
+
+}
+
+
+@media (max-width:600px)
+{
+
+body{
+    background-color:-webkit-linear-gradient(top right,rgba(16, 89, 214, 0.555),rgb(37, 24, 24));
+    background-size: cover;
+   
+}
+
+h1 {
+    color: rgb(160, 211, 21);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+    transition:1.5s;
+}
+h1:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif   ;
+    font-size: 20px;
+}
+
+
+h3{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(53, 87, 8);
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bolder;
+    transition: 1.5s;
+    }
+    
+    h3:hover{
+        font-family: Verdana, Geneva, Tahoma, sans-serif   ;
+        font-size: 25px;
+    }
+
+
+    .photo{
+        height: 70px;
+        width: 60px;
+        background-color: black;
+    border:1px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 50px;
+    margin-left: 60px;
+    background-image: url(real.jpg);
+    background-size: 60px 70px;
+    background-repeat: no-repeat;
+    box-shadow: 7px 10px 20px  black;
+    transform: translate( 90px 60px);
+    transition: 1.2s;
+    }
+    .photo:hover{
+        border-radius: 40px;
+    }
+
+
+    .phototwo{
+    
+        height: 70px;
+        width: 60px;
+        background-color: rgb(0, 0, 0);
+    border:1px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 78px;
+    margin-left: 190px;
+    background-image: url(real2.jpg);
+    background-size: 60px 70px;
+    background-repeat: no-repeat;
+    box-shadow: 7px 10px 20px  black;
+    transform: translate(-500x);
+    transition: 1.2s;
+    
+    }
+    
+    .phototwo:hover{
+        border-radius: 40px;
+    }
+
+
+    .photoall{
+        display: inline-flex;
+        margin:50px -190px;
+        padding: 0px -10px;
+    }
+
+
+
+
+    .PART2{
+        display: inline-flex;
+    }
+
+
+
+
+
+
+
+
+
+    .real66{
+        border: 1px solid black;
+        background-color: rgb(247, 243, 243);
+        height: 90px;
+        width: 75px;
+    margin:  25px  10px;
+    background-image: url(REAL66.jpg);
+    background-size: 75px 90px;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 20px  black;
+    animation: animate linear 5s infinite;
+    }
+    
+    @keyframes animate{
+       0%
+       {
+           transform: skewY(5deg);
+       }
+       50% 
+       
+       {
+        transform: skewY(15deg);
+    }
+       100%
+    {
+        transform: skewY(5deg);
+    }
+    }
+    
+
+
+
+
+
+    .real55{
+        border: 2px solid black;
+        background-color: rgb(247, 243, 243);
+        height: 90px;
+        width: 75px;
+    margin:  20px  20px;
+    background-image: url(REAL55.jpg);
+    background-size: 75px 90px;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 20px  black;
+    animation: animate linear 5s infinite;
+    }
+    
+    @keyframes animate{
+        0%
+        {
+            transform: skewY(5deg);
+        }
+        50% 
+        
+        {
+         transform: skewY(15deg);
+     }
+        100%
+     {
+         transform: skewY(5deg);
+     }
+     }
+
+
+
+    
+
+
+.real44{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  15px  10px;
+background-image: url(REAL44.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+ .part3{
+    display: inline-flex;
+}
+
+
+
+
+.cr11{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  25px  10px;
+background-image: url(CR11.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+
+
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+ .cr15{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  20px  20px;
+background-image: url(CR15.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+ .cr76{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  15px  10px;
+background-image: url(CR76.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+ .part4{
+    display: inline-flex;
+}
+
+
+
+
+.ram1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  20px  20px;
+background-image: url(ram1.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+ .ram3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  30px  10px;
+background-image: url(ram3.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ .ram2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  15px  10px;
+background-image: url(ram2.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+ .part5{
+    display: inline-flex;
+}
+
+
+
+
+
+.ben1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  25px  10px;
+background-image: url(bale1.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+ .ben2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  20px  20px;
+background-image: url(bale2.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+
+ .ben3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  15px  10px;
+background-image: url(bale3.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+ .part6{
+    display: inline-flex;
+}
+
+
+
+
+.kro1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  25px  10px;
+background-image: url(kro1.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+}
+
+
+.kro2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  20px  20px;
+background-image: url(kro2.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+ .kro3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  15px  10px;
+background-image: url(kro3.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+ .part7{
+    display: inline-flex;
+}
+
+
+
+
+
+.mod1{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  25px  10px;
+background-image: url(mod1.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+
+
+
+
+
+ .mod2{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  20px  20px;
+background-image: url(mod2.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: animate linear 5s infinite;
+}
+@keyframes animate{
+    0%
+    {
+        transform: skewY(5deg);
+    }
+    50% 
+    
+    {
+     transform: skewY(15deg);
+ }
+    100%
+ {
+     transform: skewY(5deg);
+ }
+ }
+
+
+
+ .mod3{
+    border: 2px solid black;
+    background-color: rgb(247, 243, 243);
+    height: 90px;
+    width: 75px;
+margin:  15px  10px;
+background-image: url(mod3.jpg);
+background-size: 75px 90px;
+background-repeat: no-repeat;
+box-shadow: 10px 10px 20px  black;
+animation: a linear 5s infinite;
+}
+@keyframes a{
+    0%
+    {
+        transform: skewy(5deg);
+       
+    }
+
+    50% 
+    
+    {
+     transform: skewY(15deg);
+     
+    }
+
+    100%
+ {
+     transform: skewY(5deg);
+     
+ }
+ 
+ 
+
+}
+
+
+
+
+}
+
+ 
